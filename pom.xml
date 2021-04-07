@@ -59,7 +59,7 @@
                     <perCoreThreadCount>false</perCoreThreadCount>
                     <parallel>classes</parallel>
                     <includes>
-                        <include>**/*Runner*.java</include>
+                        <include>**/TestRunner2.java</include>
                     </includes>
                     <testFailureIgnore>false</testFailureIgnore>
                 </configuration>
